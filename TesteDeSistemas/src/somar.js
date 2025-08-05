@@ -5,4 +5,4 @@ export function somar(a, b) {
     return a + b;
 }
 
-console.log(somar(2, 2));
+console.log(somar("a", "b"));
